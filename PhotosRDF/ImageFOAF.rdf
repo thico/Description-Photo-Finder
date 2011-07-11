@@ -1,0 +1,302 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+		
+
+
+<foaf:Image rdf:ID="img1">
+		<foaf:thumbnail rdf:resource="http://www.lia.ufc.br/~thiagoalves/euniver.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://www.lia.ufc.br/~thiagoalves/#thiago"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+		<foaf:Image rdf:ID="img2">
+		<foaf:thumbnail rdf:resource="http://images.orkut.com/orkut/photos/OgAAAPFkX2-islDCSsXQEdQ-fsFvTX0VFjrAtmLus-lSaf-5YQi4a3xohTGagCF8ZJhw1nX4XUvX5pdF_VJv2_z5u5sAm1T1UBdVgRQUfv641rTuKBn4CHSM5nQu.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://www.lia.ufc.br/~thiagoalves/#thiago"/>
+		 </foaf:depicts>
+		 <foaf:depicts>
+		  <foaf:Person>
+     			<foaf:name>Priscila</foaf:name>
+     			<foaf:mbox rdf:resource="priscila_ea19@yahoo.com"/>
+ 		  </foaf:Person>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+
+		<foaf:Image rdf:ID="img3">
+		<foaf:thumbnail rdf:resource="http://images.orkut.com/orkut/photos/OgAAAIdCiimvgPXtSy7BazAT9zb1ohYAqLqI1Gw75weaioLeDlOPDCXQBouGAj2RptyBJebe-uLTXaEei2BmQXJgwq0Am1T1UDg6JVSEizrd1OnkEvQWU498iPS7.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://www.lia.ufc.br/~thiagoalves/#thiago"/>
+		 </foaf:depicts>
+		 <foaf:depicts>
+		  <foaf:Person>
+     			<foaf:name>Nelson</foaf:name>
+     			<foaf:mbox rdf:resource="nelsonuchoa@gmail.com"/>
+ 		  </foaf:Person>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img4">
+		<foaf:thumbnail rdf:resource="http://images.orkut.com/orkut/photos/OgAAAFS0XS3yQ_Q8atfbREcg6eMfemo-zzc9m2FAKWkMXZ9LR8wjANe0svFMXUKqIY1z6j1Zy9TvJISCK4hWm0FUpZUAm1T1UIU_9tEXrbDGD5NVB5prMgSBEF-t.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://www.lia.ufc.br/~thiagoalves/#thiago"/>
+		 </foaf:depicts>
+		 <foaf:depicts>
+		  <foaf:Person>
+     			<foaf:name>Daniel</foaf:name>
+     			<foaf:mbox rdf:resource="dant25@gmail.com"/>
+ 		  </foaf:Person>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person>
+     			<foaf:name>Kildayre</foaf:name>
+     			<foaf:mbox rdf:resource="kmgomes@hotmail.com"/>
+ 		  </foaf:Person>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+	<foaf:Image rdf:ID="img5">
+		<foaf:thumbnail rdf:resource="http://images.orkut.com/orkut/photos/OgAAAHZpX2B7kZn3Y9R6psWvCLbW7Iek6alXEPUnqw04TsHweQ29YQMETDnZTYtXrBJ4_roHlbxLuYWp18TeZFcr-msAm1T1UNmRVYh5P96rf_CL5RciZNDfoE7s.jpg"/>
+		 <foaf:depicts>
+		  <foaf:Person>
+     			<foaf:name>Fernando</foaf:name>
+     			<foaf:mbox rdf:resource="nandozezim@gmail.com"/>
+ 		  </foaf:Person>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person>
+     			<foaf:name>Kildayre</foaf:name>
+     			<foaf:mbox rdf:resource="kmgomes@hotmail.com"/>
+ 		  </foaf:Person>
+		 </foaf:depicts>
+		 </foaf:Image>		
+
+
+
+<foaf:Image rdf:ID="img6">
+		<foaf:thumbnail rdf:resource="http://napraticaateoriaeoutra.org/wp-content/uploads/2009/09/Alan_Turing.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Alan_Turing"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img10">
+		<foaf:thumbnail rdf:resource="http://www.cs.utexas.edu/users/EWD/EWDwww.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Edsger_W._Dijkstra"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img11">
+		<foaf:thumbnail rdf:resource="http://www.knowledgerush.com/wiki_image/3/34/Frege.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Gottlob_Frege"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img12">
+		<foaf:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/17/Georg_Cantor.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Georg_Cantor"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img13">
+		<foaf:thumbnail rdf:resource="http://professorglobal.cbpf.br/cursos/datas/website-rev/imagens/david_hilbert.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/David_Hilbert"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img14">
+		<foaf:thumbnail rdf:resource="http://www-gap.dcs.st-and.ac.uk/~history/BigPictures/Godel_3.jpeg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Kurt_G%C3%B6del"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img15">
+		<foaf:thumbnail rdf:resource="http://billvaz.files.wordpress.com/2010/01/albert-einstein1.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Albert_Einstein"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img16">
+		<foaf:thumbnail rdf:resource="http://www.ams.org/featurecolumn/images/january2006/trees8.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Joseph_Kruskal"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img17">
+		<foaf:thumbnail rdf:resource="http://www.fields.utoronto.ca/programs/scientific/99-00/stephen_cook/scook.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Stephen_Cook"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img18">
+		<foaf:thumbnail rdf:resource="http://www.research.ibm.com/resources/news/images/20030423_codda.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Edgar_F._Codd"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img19">
+		<foaf:thumbnail rdf:resource="http://danielbohn.files.wordpress.com/2008/03/tim-berners-lee.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Tim_Berners-Lee"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img20">
+		<foaf:thumbnail rdf:resource="http://lab.think4.com.br/wp-content/uploads/2009/10/the-simpsons.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/The_Simpsons"/>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Bart_Simpson"/>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Homer_Simpson"/>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Marge_Simpson"/>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Lisa_Simpson"/>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Santa%27s_Little_Helper"/>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Snowball_(The_Simpsons)"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img21">
+		<foaf:thumbnail rdf:resource="http://2.bp.blogspot.com/-tp-uu4n_UhE/TZcx3V23r2I/AAAAAAAAD_s/85nTEJZyNn0/s1600/bugs-bunny-3-g.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Bugs_Bunny"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img22">
+		<foaf:thumbnail rdf:resource="http://www.imotion.com.br/imagens/data/media/42/9011patolino.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Bugs_Bunny"/>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Daffy_Duck"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img23">
+		<foaf:thumbnail rdf:resource="http://modaesporte.files.wordpress.com/2010/11/snoopy.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Snoopy"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img24">
+		<foaf:thumbnail rdf:resource="http://4.bp.blogspot.com/_vE6ZQX7lX7Y/TKHcNdGd0HI/AAAAAAAAZq4/Kz93b3AHpPQ/s1600/snoopy-7.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Snoopy"/>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Woodstock_(Peanuts)"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img25">
+		<foaf:thumbnail rdf:resource="http://www.best-cine.com/wp-content/uploads/2010/08/cinema-Homem-Aranha.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Spider-Man"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img26">
+		<foaf:thumbnail rdf:resource="http://static.infoescola.com/wp-content/uploads/2009/11/simba.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Simba"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img27">
+		<foaf:thumbnail rdf:resource="http://4.bp.blogspot.com/_kZF52n1kcoA/TJ4qEFF-WII/AAAAAAAAAIY/_NARqA-kvn4/s1600/simba+timao+e+pumba.bmp"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Simba"/>
+		 </foaf:depicts>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Timon_and_Pumbaa"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+
+<foaf:Image rdf:ID="img9">
+		<foaf:thumbnail rdf:resource="http://1.bp.blogspot.com/-Xp_6nOmom6c/TaRI0imI8JI/AAAAAAAAd10/pG4l6eZGkSA/s1600/Turing.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Alan_Turing"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img8">
+		<foaf:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Martin_Davis.jpg/200px-Martin_Davis.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Martin_Davis"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+<foaf:Image rdf:ID="img7">
+		<foaf:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/en/a/a6/Alonzo_Church.jpg"/>
+		<foaf:depicts>
+		  <foaf:Person rdf:about="http://dbpedia.org/resource/Alonzo_Church"/>
+		 </foaf:depicts>
+		 </foaf:Image>
+
+
+
+
+
+
+
+
+		<foaf:Person rdf:ID="thiago">
+			<foaf:name>Thiago Alves</foaf:name>
+			<foaf:title>Bacharel</foaf:title>
+			<foaf:givenname>Thiago</foaf:givenname>
+			<foaf:family_name>Alves</foaf:family_name>
+			<foaf:nick>thico</foaf:nick>
+			<foaf:homepage rdf:resource="http://www.lia.ufc.br/~thiagoalves/"/>
+			<foaf:mbox rdf:resource="thiagoalvesrocha@gmail.com"/>
+			<foaf:depiction rdf:resource="http://www.lia.ufc.br/~thiagoalves/euniver.jpg"/>
+			<foaf:topic_interest rdf:resource="http://dbpedia.org/resource/Alan_Turing"/>
+			<foaf:phone rdf:resource="tel:88812315"/>
+			<foaf:knows>
+				<foaf:Person rdf:ID="dant">
+					<foaf:name>Daniel</foaf:name>
+					<foaf:mbox rdf:resource="dant25@gmail.com"/>
+					
+				</foaf:Person>
+			</foaf:knows>
+			<foaf:knows>
+				<foaf:Person rdf:ID="racruvido">
+					<foaf:name>Rafael</foaf:name>
+					<foaf:mbox rdf:resource="racruvido@firefox.com"/>
+					
+				</foaf:Person>
+			</foaf:knows>
+			<foaf:knows>
+				<foaf:Person rdf:ID="kildayre">
+					<foaf:name>Kildayre</foaf:name>
+					<foaf:mbox rdf:resource="kmgomes@hotmail.com"/>
+					
+				</foaf:Person>
+			</foaf:knows>
+		</foaf:Person>
+</rdf:RDF>
