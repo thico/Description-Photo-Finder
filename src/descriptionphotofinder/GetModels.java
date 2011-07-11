@@ -28,13 +28,16 @@ import javax.swing.ImageIcon;
  *
  * @author thiago
  */
-public class GetModels {
+public class GetModels {    
     static String defaultNameSpace = "http://www.lia.ufc.br/~thiagoalves/#";
     //static String dbNameSpace = "http://dbpedia.org/resource/#";
 
     List< String > links = new ArrayList< String >();
 
     List< Icon > images = new ArrayList< Icon >();
+
+    String str;
+    Integer cont;
 
     InfModel inferredModel = null;
     Model schema = ModelFactory.createOntologyModel();
